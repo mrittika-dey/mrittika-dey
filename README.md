@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrittika-dey
-- 👀 I’m interested in Cognitive and Computational Neuroscience.
-- 🌱 I’m currently working on my Masters dissertation at National Brain Research Center, India. It involves analysing MEG data to investigate change in cognitive dynamics with age.
+- 👀 I’m interested in visual perception.
+- 🌱 I recently graduated with a Master's in Neuroscience from National Brain Research Centre, India, specializing in Computational and Cognitive Neuroscience.
 - 📫 How to reach me : Twitter : @MrittikaDey2
                        LinkedIn : mrittika-dey
 
