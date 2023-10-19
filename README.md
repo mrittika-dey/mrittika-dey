@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrittika-dey
 - 👀 I’m interested in visual perception and representation of object knowledge in the brain. 
-- 🌱 I am working as a Research Assistant in the Human Vision Lab @UCLouvain. I graduated with a Master's in Neuroscience from National Brain Research Centre, India, specializing in Computational and Cognitive Neuroscience.
+- 🌱 I am a PhD student in the Goffaux-Lab @UCLouvain. I graduated with a Master's in Neuroscience from National Brain Research Centre, India, specializing in Computational and Cognitive Neuroscience.
 - 📫 How to reach me : Twitter : @MrittikaDey2
                        LinkedIn : mrittika-dey
                        Email : mrittika.dey@uclouvain.be
